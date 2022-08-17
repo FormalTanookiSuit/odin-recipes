@@ -1,0 +1,52 @@
+.main-head{
+    color: white;
+    background-color: black;
+    font-family: 'Brush Script MT', cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px;
+    border-color: red;
+
+}
+
+h1{
+    text-align: center;
+}
+
+h2,h3,h4{
+    text-align: center;
+    font-weight: 700;
+    border-bottom: 25px;
+    border-style: groove;
+}
+
+.description{
+    border: 5px;
+    border-style: double;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    outline: 5px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 10px;
+    font-size: 24px;
+
+
+}
+
+ul,ol{
+    color: white;
+    background-color: black;
+}
+
+ol{
+    border: 14px;
+    border-style: dotted;
+    border-color: aqua;
+
+}
+
+.image{
+    width: 300px;
+    height: auto;
+    align-content: center;
+}
